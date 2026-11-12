@@ -7,14 +7,14 @@
 <div align="center">
   <table align="center" cellpadding="0" cellspacing="0">
     <tr>
-      <td align="right" width="350">
+      <td align="right" width="355">
         <img
           src="assets/developer-workspace.jpeg"
-          width="330"
+          width="430"
           alt="Developer Workspace"
         />
       </td>
-      <td align="left" width="300">
+      <td align="center" width="320">
         <h2>🎨 Exploring the Art of<br>Software Engineering 💻</h2>
       </td>
     </tr>
@@ -84,7 +84,10 @@
             <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=gmail&theme=light">
             <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48" alt="Email">
           </picture>
-          <br>Drop me an email
+          <br>
+          Drop me an email
+          <br>
+          aaditya.jaiswal.swe@gmail.com
         </a>
       </h3>
     </td>
