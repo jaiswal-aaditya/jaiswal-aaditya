@@ -63,7 +63,7 @@
 
 <h3 align="center">Development Tools</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
 </div>
 
 <h3 align="center">DevOps</h3>
